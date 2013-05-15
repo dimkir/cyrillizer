@@ -1,6 +1,6 @@
 <?php
 
-//Úτƒ-8 encoded
+//Úτƒ-8 encoded 2
 
 include '../include.inc.php';
 include_once 'utilsx.inc.php';
